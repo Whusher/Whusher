@@ -56,7 +56,7 @@ Profynus is focused on download and manage music from different sources and shar
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanayabeduardo)---](url)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanayabeduardo)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Whusher&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
