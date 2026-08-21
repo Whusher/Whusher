@@ -48,29 +48,15 @@ I'm a passionate **Full Stack Software Developer** who loves building robust app
 
 ## 🏆 Featured Projects
 
-### 📌 [Project Name 1](link-to-repo)
-**Brief description of your project** - What problem does it solve? What technologies did you use?
-- 🔧 Tech: [Add your tech stack]
-- ⭐ Key features: [List main features]
+### 📌 [Profynus Music Platform](https://github.com/Whusher/Profynus.git)
+Profynus is focused on download and manage music from different sources and share with friends as well
+- 🔧 Tech: C# .NET 10 in backend services, React 19 + Vite in frontend
+- ⭐ Key features: 3D Animations for music player, Colored UI, Layered Architecture.
 
-### 📌 [Project Name 2](link-to-repo)
-**Brief description of your project** - What problem does it solve? What technologies did you use?
-- 🔧 Tech: [Add your tech stack]
-- ⭐ Key features: [List main features]
-
-### 📌 [Project Name 3](link-to-repo)
-**Brief description of your project** - What problem does it solve? What technologies did you use?
-- 🔧 Tech: [Add your tech stack]
-- ⭐ Key features: [List main features]
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanayabeduardo)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aanayabeduardo)---](url)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Whusher&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
