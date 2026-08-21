@@ -38,7 +38,7 @@ I'm a passionate **Full Stack Software Developer** who loves building robust app
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Whusher&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Whusher&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whusher&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
 </div>
 
@@ -50,7 +50,7 @@ I'm a passionate **Full Stack Software Developer** who loves building robust app
 
 ### 📌 [Profynus Music Platform](https://github.com/Whusher/Profynus.git)
 Profynus is focused on download and manage music from different sources and share with friends as well
-- 🔧 Tech: C# .NET 10 in backend services, React 19 + Vite in frontend
+- 🔧 Tech: C# .NET 8 in backend services, React 19 + Vite in frontend
 - ⭐ Key features: 3D Animations for music player, Colored UI, Layered Architecture.
 
 
